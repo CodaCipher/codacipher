@@ -48,12 +48,9 @@
 ### M E T R I C S
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodaCipher&show_icons=true&theme=github_dark&bg_color=0a0a0f&title_color=e0e0e0&icon_color=4a4a6a&text_color=8888aa&border_color=1a1a2e&hide_border=false&border_radius=4" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodaCipher&layout=compact&theme=github_dark&bg_color=0a0a0f&title_color=e0e0e0&text_color=8888aa&border_color=1a1a2e&hide_border=false&border_radius=4" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CodaCipher&theme=github-dark-blue&background=0a0a0f&stroke=1a1a2e&ring=e0e0e0&fire=e0e0e0&currStreakLabel=e0e0e0&sideLabels=8888aa&dates=4a4a6a&border_radius=4" alt="GitHub Streak"/>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodaCipher&show_icons=true&theme=github_dark&bg_color=0a0a0f&title_color=e0e0e0&icon_color=4a4a6a&text_color=8888aa&border_color=1a1a2e&hide_border=false&border_radius=4&hide=issues,contribs&hide_rank=true" alt="GitHub Stats"/>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodaCipher&layout=compact&theme=github_dark&bg_color=0a0a0f&title_color=e0e0e0&text_color=8888aa&border_color=1a1a2e&hide_border=false&border_radius=4&langs_count=5" alt="Top Languages"/>
+  <img height="150" src="https://streak-stats.demolab.com/?user=CodaCipher&theme=github-dark-blue&background=0a0a0f&stroke=1a1a2e&ring=e0e0e0&fire=e0e0e0&currStreakLabel=e0e0e0&sideLabels=8888aa&dates=4a4a6a&border_radius=4&hide_longest_streak=true" alt="GitHub Streak"/>
 </p>
 
 ---
