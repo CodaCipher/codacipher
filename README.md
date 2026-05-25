@@ -31,6 +31,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Projects exploring the intersection of neuroscience, cognition, and AI.
 
+<img src="assets/SubDot6.png" width="22" valign="middle"> [tribe-subcortex](https://github.com/CodaCipher/tribe-subcortex)
+
 <div align="center">
   <img src="assets/divider3.png" width="100%">
 </div>
