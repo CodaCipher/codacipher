@@ -27,14 +27,22 @@
   <img src="assets/divider2.png" width="100%">
 </div>
 
-<h3><img src="assets/MainDot2.png" width="28" valign="middle"> Personal Projects</h3>
+<h3><img src="assets/MainDot2.png" width="28" valign="middle"> Neuro-AI Projects</h3>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Projects exploring the intersection of neuroscience, cognition, and AI.
+
+<div align="center">
+  <img src="assets/divider3.png" width="100%">
+</div>
+
+<h3><img src="assets/MainDot3.png" width="28" valign="middle"> Personal Projects</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Independent tools, side projects, and whatever else the curiosity drifts toward.
 
 <img src="assets/SubDot5.png" width="22" valign="middle"> [gamma-node](https://github.com/CodaCipher/gamma-node)
 
 <div align="center">
-  <img src="assets/divider3.png" width="100%">
+  <img src="assets/divider4.png" width="100%">
 </div>
 
 <div align="center">
