@@ -18,7 +18,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;These projects are built on language models. From synthetic data generation to AI companions and autonomous agents, each one explores a different edge of what LLMs can become.
 
-<img src="assets/SubDot1.png" width="22" valign="middle"> [opengnosis](https://github.com/CodaCipher/opengnosis)<br>
+<img src="assets/SubDot6.png" width="22" valign="middle"> [opengnosis](https://github.com/CodaCipher/opengnosis)<br>
 <img src="assets/SubDot2.png" width="22" valign="middle"> [iterabeast](https://github.com/CodaCipher/iterabeast)<br>
 <img src="assets/SubDot3.png" width="22" valign="middle"> [v-lucent](https://github.com/CodaCipher/v-lucent)<br>
 <img src="assets/SubDot4.png" width="22" valign="middle"> [opendroid-re](https://github.com/CodaCipher/opendroid-re)
@@ -31,7 +31,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Projects exploring the intersection of neuroscience, cognition, and AI.
 
-<img src="assets/SubDot6.png" width="22" valign="middle"> [tribe-subcortex](https://github.com/CodaCipher/tribe-subcortex)
+<img src="assets/SubDot1.png" width="22" valign="middle"> [tribe-subcortex](https://github.com/CodaCipher/tribe-subcortex)
 
 <div align="center">
   <img src="assets/divider3.png" width="100%">
