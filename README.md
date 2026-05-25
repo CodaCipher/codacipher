@@ -35,7 +35,7 @@
   <img src="assets/divider3.png" width="100%">
 </div>
 
-<h3><img src="assets/MainDot3.png" width="28" valign="middle"> Personal Projects</h3>
+<h3><img src="assets/MainDot5.png" width="28" valign="middle"> Personal Projects</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Independent tools, side projects, and whatever else the curiosity drifts toward.
 
